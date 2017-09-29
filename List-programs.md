@@ -1,4 +1,4 @@
-| Use | <td colspan=3>Program(s) | | |
+| Use | Program(s) | | |
 |---|---|---|---|
 | Compressed archives |  [7-zip](http://www.7-zip.org)  |
 | Messaging | [Telegram](https://telegram.me) | [Discord](https://discordapp.com) |
