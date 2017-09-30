@@ -14,5 +14,6 @@
 | Streaming | [OBS](https://obsproject.com/) |
 | Virtual Machines | [VMware Player](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0)
 | Hardware / Overclocking | [SpeedFan](http://www.almico.com/sfdownload.php) | [MSI Afterburner](https://www.msi.com/page/afterburner) | [MSI Kombustor](http://www.geeks3d.com/20140917/msi-kombustor-3-5-0-gpu-burn-in-stress-test-opengl-opencl-benchmark/)
+| Emulation | [Citra (3DS)](https://citra-emu.org/download/) | [Cemu (Wii U)](http://cemu.info) | [Dolphin (Wii/GC)](https://dolphin-emu.org/)
 
 [Return](https://acharluk.github.io/Computer-setup)
