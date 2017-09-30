@@ -2,4 +2,4 @@
 Repo for guides and pc setup
 
 [Program List (Windows)](list-programs/Windows)  
-[Program List (Adnroid)](list-programs/Android)
+[Program List (Android)](list-programs/Android)
