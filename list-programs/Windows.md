@@ -12,5 +12,5 @@
 | Music Player | [Aimp](https://www.aimp.ru) |
 | Video Player | [MPC-HC + SVP](https://www.svp-team.com/wiki/Download) |
 | Streaming | [OBS](https://obsproject.com/) |
-| Virtual Machines | [VMware Player](https://www.vmware.com/products/workstation-player.html)
+| Virtual Machines | [VMware Player](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0)
 | Hardware / Overclocking | [SpeedFan](http://www.almico.com/sfdownload.php) | [MSI Afterburner](https://www.msi.com/page/afterburner) | [MSI Kombustor](http://www.geeks3d.com/20140917/msi-kombustor-3-5-0-gpu-burn-in-stress-test-opengl-opencl-benchmark/)
