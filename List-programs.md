@@ -9,3 +9,8 @@
 | Audio Editing | [Audacity](http://www.audacityteam.org/download) |
 | Image Editing | [Paint.net](https://www.getpaint.net) |
 | Office Suite | [LibreOffice](https://www.libreoffice.org/) |
+| Music Player | [Aimp](https://www.aimp.ru) |
+| Video Player | [MPC-HC + SVP](https://www.svp-team.com/wiki/Download) |
+| Streaming | [OBS](https://obsproject.com/) |
+| Virtual Machines | [VMware Player](https://www.vmware.com/products/workstation-player.html)
+| Hardware / Overclocking | [SpeedFan](http://www.almico.com/sfdownload.php) | [MSI Afterburner](https://www.msi.com/page/afterburner) | [MSI Kombustor](http://www.geeks3d.com/20140917/msi-kombustor-3-5-0-gpu-burn-in-stress-test-opengl-opencl-benchmark/)
