@@ -1,12 +1,14 @@
-# SSD setup
+# First steps
 
-## Disable file indexing
+## SSD setup
 
-# Power
+### Disable file indexing
 
-  - Disable hibernation: powercfg -h off
+## Power
 
-# Privacy
+- Disable hibernation: powercfg -h off
+
+## Privacy
 
 
 [Return](https://acharluk.github.io/Computer-setup)
