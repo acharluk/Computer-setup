@@ -1,4 +1,4 @@
-# Computer-setup
+# Computer setup
 Repo for guides and pc setup
 
 [First steps (Windows)](first-steps/Windows)
