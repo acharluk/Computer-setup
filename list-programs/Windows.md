@@ -2,7 +2,7 @@
 |---|---|---|---|
 | Compressed archives |  [7-zip](http://www.7-zip.org)  |
 | Messaging | [Telegram](https://telegram.me) | [Discord](https://discordapp.com) |
-| Development | [Visual Studio Code](https://code.visualstudio.com) | [IntelliJ IDEA](https://www.jetbrains.com/idea/) | [Node.JS](https://nodejs.org) \| [Git](https://git-scm.com/) |
+| Development | [Visual Studio Code](https://code.visualstudio.com) | [IntelliJ IDEA](https://www.jetbrains.com/idea/) | [Node.JS](https://nodejs.org) \| [Git](https://git-scm.com/) \| [Scoop](http://scoop.sh/) |
 | Internet browser | [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html) | [Firefox](https://www.mozilla.org/en-US/firefox) |
 | Gaming | [Steam](http://store.steampowered.com) | [Origin](https://www.origin.com) | [Battle.net](http://eu.battle.net/en/app) |
 | 3D Modeling | [Blender](https://www.blender.org/) |
