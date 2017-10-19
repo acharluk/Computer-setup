@@ -10,5 +10,9 @@
 
 ## Privacy
 
+## Misc
+
+- Remove OneDrive
+
 
 [Return](https://acharluk.github.io/Computer-setup)
