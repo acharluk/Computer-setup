@@ -10,6 +10,8 @@
 
 ## Privacy
 
+- Leave background apps enabled to get app search working
+
 ## Misc
 
 - Remove OneDrive
