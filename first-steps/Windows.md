@@ -15,6 +15,6 @@
 ## Misc
 
 - Remove OneDrive
-
+- Install [Fira Code](https://github.com/tonsky/FiraCode)
 
 [Return](https://acharluk.github.io/Computer-setup)
